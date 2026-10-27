@@ -1,0 +1,23 @@
+CHIPS $ 2.49
+CEREAL $ 3.25
+                 
+Subtotal $ 5.74
+Tax $ 0.00
+Total $ 5.74
+----------------
+SOAP $ 1.79
+SODA $ 2.99
+                 
+Subtotal $ 4.78
+Tax $ 0.39
+Total $ 5.17
+----------------
+CHIPS $ 2.49
+CEREAL $ 3.25
+SOAP $ 1.79
+SODA $ 2.99
+                 
+Subtotal $ 10.52
+Tax $ 0.39
+Total $ 10.91
+----------------

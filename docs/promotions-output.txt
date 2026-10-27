@@ -1,0 +1,152 @@
+Added promotion Easter
+Added promotion Mother's Day
+Added promotion Valentine's Day
+Cereals:
+Corn Flakes               Easter           Expires: 2026-04-06     20%
+Apple Jacks               Valentine's Day  Expires: 2026-02-14     5%
+Reese's Puffs             Easter           Expires: 2026-04-06     20%
+Honey Nut Cheerios        Easter           Expires: 2026-04-06     20%
+Corn Flakes               Easter           Expires: 2026-04-06     20%
+Apple Jacks               Valentine's Day  Expires: 2026-02-14     5%
+Honey Nut Cheerios        Easter           Expires: 2026-04-06     20%
+Raisin Bran Crunch        Valentine's Day  Expires: 2026-02-14     5%
+Froot Loops               Easter           Expires: 2026-04-06     20%
+Reese's Puffs             Easter           Expires: 2026-04-06     20%
+Corn Flakes               Easter           Expires: 2026-04-06     20%
+Honey Bunches of Oats     Easter           Expires: 2026-04-06     20%
+Frosted Flakes            Easter           Expires: 2026-04-06     20%
+Lucky Charms              Easter           Expires: 2026-04-06     20%
+Rice Krispies             Easter           Expires: 2026-04-06     20%
+Fruity Pebbles            Valentine's Day  Expires: 2026-02-14     5%
+Frosted Mini-Wheats       Easter           Expires: 2026-04-06     20%
+Froot Loops               Easter           Expires: 2026-04-06     20%
+Lucky Charms              Easter           Expires: 2026-04-06     20%
+Cheerios                  Easter           Expires: 2026-04-06     20%
+Reese's Puffs             Easter           Expires: 2026-04-06     20%
+Honey Nut Cheerios        Easter           Expires: 2026-04-06     20%
+Cheerios                  Easter           Expires: 2026-04-06     20%
+Cinnamon Toast Crunch     Valentine's Day  Expires: 2026-02-14     5%
+Honey Bunches of Oats     Easter           Expires: 2026-04-06     20%
+Froot Loops               Easter           Expires: 2026-04-06     20%
+Frosted Flakes            Easter           Expires: 2026-04-06     20%
+Honey Bunches of Oats     Easter           Expires: 2026-04-06     20%
+Honey Nut Cheerios        Easter           Expires: 2026-04-06     20%
+
+Chips:
+Doritos                   Easter           Expires: 2026-04-06     20%
+Pringles                  Mother's Day     Expires: 2026-05-10     10%
+Lays                      Easter           Expires: 2026-04-06     20%
+Funyuns                   Mother's Day     Expires: 2026-05-10     10%
+Cheetos                   Easter           Expires: 2026-04-06     20%
+Ruffles                   Mother's Day     Expires: 2026-05-10     10%
+Fritos                    Easter           Expires: 2026-04-06     20%
+Takis                     Mother's Day     Expires: 2026-05-10     10%
+Lays                      Easter           Expires: 2026-04-06     20%
+Funyuns                   Mother's Day     Expires: 2026-05-10     10%
+Cheetos                   Easter           Expires: 2026-04-06     20%
+Ruffles                   Mother's Day     Expires: 2026-05-10     10%
+Fritos                    Easter           Expires: 2026-04-06     20%
+Takis                     Mother's Day     Expires: 2026-05-10     10%
+Sun Chips                 Easter           Expires: 2026-04-06     20%
+Tostitos                  Mother's Day     Expires: 2026-05-10     10%
+
+Remove expired
+
+Cereals:
+Corn Flakes               No Active Promos
+Apple Jacks               No Active Promos
+Reese's Puffs             No Active Promos
+Honey Nut Cheerios        No Active Promos
+Corn Flakes               No Active Promos
+Apple Jacks               No Active Promos
+Honey Nut Cheerios        No Active Promos
+Raisin Bran Crunch        No Active Promos
+Froot Loops               No Active Promos
+Reese's Puffs             No Active Promos
+Corn Flakes               No Active Promos
+Honey Bunches of Oats     No Active Promos
+Frosted Flakes            No Active Promos
+Lucky Charms              No Active Promos
+Rice Krispies             No Active Promos
+Fruity Pebbles            No Active Promos
+Frosted Mini-Wheats       No Active Promos
+Froot Loops               No Active Promos
+Lucky Charms              No Active Promos
+Cheerios                  No Active Promos
+Reese's Puffs             No Active Promos
+Honey Nut Cheerios        No Active Promos
+Cheerios                  No Active Promos
+Cinnamon Toast Crunch     No Active Promos
+Honey Bunches of Oats     No Active Promos
+Froot Loops               No Active Promos
+Frosted Flakes            No Active Promos
+Honey Bunches of Oats     No Active Promos
+Honey Nut Cheerios        No Active Promos
+
+Chips:
+Doritos                   No Active Promos
+Pringles                  No Active Promos
+Lays                      No Active Promos
+Funyuns                   No Active Promos
+Cheetos                   No Active Promos
+Ruffles                   No Active Promos
+Fritos                    No Active Promos
+Takis                     No Active Promos
+Lays                      No Active Promos
+Funyuns                   No Active Promos
+Cheetos                   No Active Promos
+Ruffles                   No Active Promos
+Fritos                    No Active Promos
+Takis                     No Active Promos
+Sun Chips                 No Active Promos
+Tostitos                  No Active Promos
+
+
+Cereals:
+Corn Flakes               No Active Promos
+Apple Jacks               No Active Promos
+Reese's Puffs             No Active Promos
+Honey Nut Cheerios        No Active Promos
+Corn Flakes               No Active Promos
+Apple Jacks               No Active Promos
+Honey Nut Cheerios        No Active Promos
+Raisin Bran Crunch        No Active Promos
+Froot Loops               No Active Promos
+Reese's Puffs             No Active Promos
+Corn Flakes               No Active Promos
+Honey Bunches of Oats     No Active Promos
+Frosted Flakes            No Active Promos
+Lucky Charms              No Active Promos
+Rice Krispies             No Active Promos
+Fruity Pebbles            No Active Promos
+Frosted Mini-Wheats       No Active Promos
+Froot Loops               No Active Promos
+Lucky Charms              No Active Promos
+Cheerios                  No Active Promos
+Reese's Puffs             No Active Promos
+Honey Nut Cheerios        No Active Promos
+Cheerios                  No Active Promos
+Cinnamon Toast Crunch     No Active Promos
+Honey Bunches of Oats     No Active Promos
+Froot Loops               No Active Promos
+Frosted Flakes            No Active Promos
+Honey Bunches of Oats     No Active Promos
+Honey Nut Cheerios        No Active Promos
+
+Chips:
+Doritos                   No Active Promos
+Pringles                  No Active Promos
+Lays                      No Active Promos
+Funyuns                   No Active Promos
+Cheetos                   No Active Promos
+Ruffles                   No Active Promos
+Fritos                    No Active Promos
+Takis                     No Active Promos
+Lays                      No Active Promos
+Funyuns                   No Active Promos
+Cheetos                   No Active Promos
+Ruffles                   No Active Promos
+Fritos                    No Active Promos
+Takis                     No Active Promos
+Sun Chips                 No Active Promos
+Tostitos                  No Active Promos
